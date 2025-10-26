@@ -1,0 +1,13 @@
+# Ignore Competitive Programming Helper files
+.cph/
+
+# Ignore compiled executables
+*.exe
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore VSCode or IDE config folders
+.vscode/
